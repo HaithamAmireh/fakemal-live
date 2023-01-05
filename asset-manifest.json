@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fakemal-live/static/css/main.72014652.css",
+    "main.js": "/fakemal-live/static/js/main.5ceda0dd.js",
+    "static/js/787.d51aff49.chunk.js": "/fakemal-live/static/js/787.d51aff49.chunk.js",
+    "index.html": "/fakemal-live/index.html",
+    "main.72014652.css.map": "/fakemal-live/static/css/main.72014652.css.map",
+    "main.5ceda0dd.js.map": "/fakemal-live/static/js/main.5ceda0dd.js.map",
+    "787.d51aff49.chunk.js.map": "/fakemal-live/static/js/787.d51aff49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72014652.css",
+    "static/js/main.5ceda0dd.js"
+  ]
+}
